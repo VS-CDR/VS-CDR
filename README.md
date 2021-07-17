@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VladShubin2k4
+- 👋 Hi, I’m @VladShubin
 - 👀 I’m interested in algorithms, football
 - 🌱 I’m currently learning to program in C++ and analyze big data using python.
 - 💞️ I’m looking to collaborate on ...
