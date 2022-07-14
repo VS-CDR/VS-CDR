@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VladShubin
-- 👀 I’m interested in algorithms, football
+- 👀 I’m interested in algorithms, football, AI
 - 🌱 I’m currently learning to program in C++ and analyze big data using python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me in telegram(@shubin2k4), discord(VS#5769).
